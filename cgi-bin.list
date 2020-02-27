@@ -1,0 +1,14 @@
+#--------------
+# cgi-bin list
+#--------------
+# if content-list actually worked, this would be our content-list for 
+# the different CGI bin directories we would check for.
+
+"/cgi-bin/"
+"/cgi/"
+"/cgi-local/"
+"/perl/"
+"/mod_perl/"
+"/scripts/"
+"/comps/"
+"/cgi-bin-sdb/"

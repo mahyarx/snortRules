@@ -1,0 +1,10 @@
+# Athena-Security, By: Mahyar
+# ---------------
+# EXPERIMENTAL RULES
+# ---------------
+# These signatures are experimental, new and may trigger way too often.
+#
+# Be forwarned, this is our testing ground.  We put new signatures here for
+# testing before incorporating them into the default signature set.  This is
+# for bleeding edge stuff only.
+#
